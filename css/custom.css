@@ -1,0 +1,13 @@
+.notify,.error-email, .error-email-form,.error-pass,.error-email--pass,.enter-email--pass,.enter-email--form{
+    display: none;
+
+}
+.error-email, .error-email-form,.error-pass,.no-radius-top,.error-email--pass,.enter-email--pass,.enter-email--form{
+font-family: 'Open sans';
+font-size: 16px;
+line-height: 36px;
+font-weight: normal;
+border-radius: 4px;
+padding: 5px 15px;
+background-color: #e0e9ee;
+}
